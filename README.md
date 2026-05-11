@@ -15,10 +15,14 @@ Proyek ini bertujuan untuk menganalisis pasar smartphone 5G pada rentang harga 2
 
 ## 📊 Temuan Utama (Key Insights)
 ### Ponsel terbaik berdasarkan rating:
+![top_brand](/images/brand_compare.png)
 
 Berdasarkan hasil yang ada, dapat dilihat bahwa brand dengan nilai rata-rata rating terbaik didapat oleh Motorola dengan nilai rating rata-rata sebesar 8,55 dibanding dengan Samsung sebesar 8,49. Nilai ini dilihat dari daftar brand yang memiliki jumlah model lebih dari 10 kemudian dilihat rata-ratanya. 
 
 ### Melihat analisis korelasi antara harga dan kualitas (rating).
+![top_brand](/images/Korelasi.png)
+![top_brand](/images/korelasi_scatterplot.png)
+
 Berdasarkan analisis ini, dapat dilihat bahwa nilai harga memiliki hubungan yang sangat erat yakni mencapai 0,59. Hal ini juga diperkuat ketika dilakuakn pengujian p-value yang mendapatkan nilai p-value sebesar 0,000. Bukti lain juga bisa dilihat melalui hubungannya antara avg_rating dan processor_speed dimana nilainya sebesar 0,59 kemudian processor_speed dengan harga yang nilainya 0,55.
 
 ## 💡 Rekomendasi Bisnis
